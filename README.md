@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212224040343
+# Name:Swetha A
+# Date:20/05/2025
 
 
 # AIM:
@@ -38,9 +38,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
-
-
-
+![image](https://github.com/user-attachments/assets/9e56676d-deef-46f6-b4e7-fddb9677ed92)
 
 
 
